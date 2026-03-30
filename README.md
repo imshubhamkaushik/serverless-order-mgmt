@@ -1,4 +1,4 @@
-# 🛒 Serverless Order Management System (OMS)
+# Serverless Order Management System (OMS)
 
 A simple **event-driven serverless application** built on AWS to manage order creation, processing, and retrieval.
 
