@@ -16,3 +16,6 @@ terraform.tfvars
 # Python
 .venv/
 __pycache__/
+
+# Misc
+.zip
